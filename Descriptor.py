@@ -31,4 +31,6 @@ p = Parent("reza", "mahdi", "mahboobeh")
 print(p.child_name)
 print(p.father_name)
 print(p.mother_name)
+print(p.__dict__)
+
 
